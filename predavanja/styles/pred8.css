@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    background-color: bisque;
+  }
+  
+
+  header{
+    height: 15vh;
+    background-color: aquamarine;
+  }
+  
+  main{
+    height: 70vh;
+  }
+  
+  footer{
+    height: 15vh;
+    background-color: aquamarine;
+  }
+  
+  h1{
+    color: rgba(138, 27, 27, 0.5);
+
+  }
+
+  h2{
+    color: rgb(250, 58, 58);
+  }
+  h1, h2{
+    text-align: center;
+  }
+
+  h1{
+
+color: rgb(13, 2, 24, 0.5);
+  }
+
+  b{
+    display: inline-block;
+    width:100%;
+    padding: 15px;
+    border: 5px solid black;
+  }
+  
+
+  li{
+    display: inline-block;
+    padding: 10px;
+  }
+  
+[href]{
+    font-style: italic;
+}
+  
+[href="#O vama"]{
+font-size: 50px;
+}

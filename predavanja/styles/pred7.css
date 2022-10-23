@@ -1,0 +1,28 @@
+/* Primjer selektora koji dohvaca bas sve elemente */
+*{
+    text-transform: lowercase;
+  }
+  
+  /* Primjer selektora taga */
+  h2{
+    transform:rotate(-4deg)
+  }
+  
+  /* Primjer klasnog selektora */
+  .zabava{
+    text-transform: uppercase;
+  }
+  
+  /* Primjer id selektora */
+  #setanje{
+    text-align: right;
+  }
+  
+  .druga{
+    color:rgb(161, 181, 9);
+  }
+  
+  .prva{
+    color:green;
+  }
+  
