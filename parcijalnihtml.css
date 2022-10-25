@@ -1,15 +1,12 @@
 header {
-  font-style: italic;
-  text-align: center;
+  width: 70vh;
   background-image: url(header.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-top: -50px;
+  background-size: 100% 100%;
 }
 
 h1 {
   text-align: center;
-  font-size: 5em;
+  font-size: 3em;
 }
 main {
   display: inline-block;
@@ -41,10 +38,8 @@ li a:hover {
   border-radius: 5px;
 }
 body {
-  box-sizing: border-box;
   margin: auto;
   background-image: url(maldivi.jpg);
-  background-repeat: no-repeat;
   background-size: 100% 100%;
   max-width: 960px;
 }
@@ -75,9 +70,9 @@ h2 {
   color: black;
 }
 
-.imgCity{
-    justify-content: center;
-    display: flex;
-    margin: auto;
-    border-radius: 15px;
+.imgCity {
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  border-radius: 15px;
 }
